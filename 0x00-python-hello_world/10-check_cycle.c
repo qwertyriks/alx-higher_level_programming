@@ -1,15 +1,13 @@
 #include "lists.h"
 
 /**
- * check_cycle - this will check if,
+ * check_cycle - checks to see if a linked list
  *
- * a linked list contains a cycle or not
+ * contains a cycle
+ * 
+ * @list: linked list to check
  *
- * @list: checks for linked lists
- *
- * Return: this displays 1 if the list has a cycle,
- *
- * 0 if it doesn't
+ * Return: 1 if the list has a cycle, 0 if it doesn't
  */
 int check_cycle(listint_t *list)
 {

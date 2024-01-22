@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#by riksvic
+# by riksvic
 def safe_print_integer(value):
     """This prints an integer with
     "{:d}".format().

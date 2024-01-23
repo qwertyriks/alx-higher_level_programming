@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # by riks
 
-
 """The Square class defination"""
+
 
 class Square:
     """this square class body"""

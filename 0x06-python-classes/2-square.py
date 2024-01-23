@@ -2,6 +2,7 @@
 # By riks
 """This is Square class defination."""
 
+
 class Square:
     """The Square class body"""
 

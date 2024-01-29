@@ -2,6 +2,7 @@
 # By riks
 """This defines a Rectangle class."""
 
+
 class Rectangle:
     """This represent a rectangle."""
 

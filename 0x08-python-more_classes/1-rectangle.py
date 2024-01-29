@@ -2,11 +2,12 @@
 # By riks
 """This defines a Rectangle class."""
 
+
 class Rectangle:
     """expected rectangle class defined by width and height."""
 
     def __init__(self, width=0, height=0):
-    """Should initialize Rectangle instance in contructor."""
+        """Should initialize Rectangle instance in contructor."""
         self.width = width
         self.height = height
 

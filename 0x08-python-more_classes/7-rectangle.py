@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Module for 7-rectangle"""
 
+
 class Rectangle:
     """this rectangle class defination."""
 

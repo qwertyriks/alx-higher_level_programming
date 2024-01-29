@@ -2,6 +2,7 @@
 # By riks
 """This defines a Rectangle class"""
 
+
 class Rectangle:
     """Rectangle class body """
 

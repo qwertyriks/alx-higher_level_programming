@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 
-""" This the defines square module """
+"""This the defines square module"""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
-    """Now,the body of the Square class body """
+    """Now,the body of the Square class body"""
 
     def __init__(self, size):
         super().integer_validator("size", size)

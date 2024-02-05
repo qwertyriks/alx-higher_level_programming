@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-# riks
 """To define a class and inherited class-checking function."""
 
 
 def is_kind_of_class(obj, a_class):
-    """To check if an object is an instance, or inherited instance of the class.
+    """To check if an object is an instance,
+    or inherited instance of the class.
 
     Args:
         obj (any): Refers to the object to check.

@@ -1,5 +1,4 @@
-
-# !/usr/bin/python3
+#!/usr/bin/python3
 # riks
 """This Defines a class-checking function."""
 

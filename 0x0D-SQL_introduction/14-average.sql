@@ -1,2 +1,3 @@
--- Remove all records with score <= 5 in 'second_table' of 'hbtn_0c_0'
-DELETE FROM second_table WHERE score <= 5;
+-- Computes the average score of all records
+-- in the table second_table.
+SELECT AVG(`score`) AS `average` FROM `second_table`;

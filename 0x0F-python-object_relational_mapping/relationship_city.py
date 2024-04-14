@@ -13,7 +13,7 @@ class City(Base):
     City class
     Attributes:
         __tablename__ (str): The table name of the class
-        id (int): The id of the classname 
+        id (int): The id of the classname
         (str):The name of the class
         state_id (int): The state the city belongs to
     """

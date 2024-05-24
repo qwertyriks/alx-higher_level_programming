@@ -1,6 +1,5 @@
 #!/usr/bin/node
 const request = require('request');
-<<<<<<< HEAD
 request.get(process.argv[2]).on('response', function (response) {
   console.log(`code: ${response.statusCode}`);
 });
@@ -18,4 +17,4 @@ request(url, function (error, response, body) {
     });
   }
 });
->>>>>>> cb64c01d9dfe58cbd8f3198fada0600d7040241a
+

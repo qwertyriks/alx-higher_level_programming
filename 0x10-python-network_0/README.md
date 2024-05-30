@@ -26,3 +26,5 @@ What an HTTP response status code is
 What an HTTP Cookie is
 How to make a request with cURL
 What happens when you type google.com in your browser (Application level)
+
+Isaac Kumatse <ikumatse@st.ug.edu.gh>
